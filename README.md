@@ -27,6 +27,19 @@ I am a data analyst passionate about transforming raw data into actionable insig
 
 - [Learn Python 3 Course](https://www.codecademy.com/profiles/bart.kawalec/certificates/6c152bd262967f8c941c9707ed636bda)
 
+**Projects**
+
+***Python***
+
+- [BioDiversity](https://github.com/Krukode/BioDiversity-Project)
+- [Euro24](https://github.com/Krukode/Euro24)
+- [Medical Insurance](https://github.com/Krukode/Medical-Insurance)
+
+***PowerBI***
+
+- [AW Quarterly Performane](https://github.com/Krukode/AW-Qarterly-Performance/tree/main)
+- [Trailwind Executive Dashboard](https://github.com/Krukode/Trailwind-Executive-Dashboard)
+
 **Contact**
 
 bart.kawalec@gmail.com
