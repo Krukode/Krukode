@@ -30,15 +30,18 @@ I am a data analyst passionate about transforming raw data into actionable insig
 **Projects**
 
 ***Python***
-
 - [BioDiversity](https://github.com/Krukode/BioDiversity-Project)
 - [Euro24](https://github.com/Krukode/Euro24)
 - [Medical Insurance](https://github.com/Krukode/Medical-Insurance)
 
 ***PowerBI***
-
-- [AW Quarterly Performane](https://github.com/Krukode/AW-Qarterly-Performance/tree/main)
+- [AW Quarterly Performance](https://github.com/Krukode/AW-Qarterly-Performance/tree/main)
 - [Trailwind Executive Dashboard](https://github.com/Krukode/Trailwind-Executive-Dashboard)
+
+***Tableau***
+- [Floods in Europe](https://github.com/Krukode/Floods-in-Europe)
+- [Retail Transactions](https://github.com/Krukode/Retail-Transactions)
+
 
 **Contact**
 
